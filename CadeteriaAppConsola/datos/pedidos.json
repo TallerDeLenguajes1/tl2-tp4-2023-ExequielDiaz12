@@ -1,0 +1,53 @@
+[
+  {
+    "Id": 1,
+    "Producto": "PC Gamer",
+    "Estado": 2,
+    "CadeteAsignado": {
+      "Id": 1,
+      "Nombre": "Superman2",
+      "NumeroTelefono": "011-2358-1321"
+    },
+    "Cliente": {
+      "Id": 1,
+      "Apellido": "Kirsch",
+      "Nombre": "Edmond",
+      "Direccion": "Bilbao",
+      "NumeroTelefono": "012-3456-789"
+    }
+  },
+  {
+    "Id": 2,
+    "Producto": "El origen de las especies",
+    "Estado": 0,
+    "CadeteAsignado": {
+      "Id": 1,
+      "Nombre": "Superman2",
+      "NumeroTelefono": "011-2358-1321"
+    },
+    "Cliente": {
+      "Id": 1,
+      "Apellido": "Kirsch",
+      "Nombre": "Edmond",
+      "Direccion": "Bilbao",
+      "NumeroTelefono": "012-3456-789"
+    }
+  },
+  {
+    "Id": 3,
+    "Producto": "Manual de Genertica",
+    "Estado": 2,
+    "CadeteAsignado": {
+      "Id": 2,
+      "Nombre": "Flash2",
+      "NumeroTelefono": "123-5711-1317"
+    },
+    "Cliente": {
+      "Id": 2,
+      "Apellido": "Zobrist",
+      "Nombre": "Bertrand",
+      "Direccion": "Florencia",
+      "NumeroTelefono": "987-6543-210"
+    }
+  }
+]

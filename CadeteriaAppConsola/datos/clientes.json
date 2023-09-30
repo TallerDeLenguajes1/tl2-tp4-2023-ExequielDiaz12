@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Apellido": "Kirsch",
+    "Nombre": "Edmond",
+    "Direccion": "Bilbao",
+    "NumeroTelefono": "012-3456-789"
+  },
+  {
+    "Id": 2,
+    "Apellido": "Zobrist",
+    "Nombre": "Bertrand",
+    "Direccion": "Florencia",
+    "NumeroTelefono": "987-6543-210"
+  }
+]

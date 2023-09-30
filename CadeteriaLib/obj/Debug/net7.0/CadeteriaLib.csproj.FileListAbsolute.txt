@@ -1,0 +1,12 @@
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\obj\Debug\net7.0\CadeteriaLib.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\obj\Debug\net7.0\CadeteriaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\obj\Debug\net7.0\CadeteriaLib.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\obj\Debug\net7.0\CadeteriaLib.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\obj\Debug\net7.0\CadeteriaLib.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\bin\Debug\net7.0\CadeteriaLib.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\bin\Debug\net7.0\CadeteriaLib.dll
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\bin\Debug\net7.0\CadeteriaLib.pdb
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\obj\Debug\net7.0\CadeteriaLib.dll
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\obj\Debug\net7.0\refint\CadeteriaLib.dll
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\obj\Debug\net7.0\CadeteriaLib.pdb
+C:\Users\Usuario\OneDrive\Escritorio\RepoGIT\tl2-tp4-2023-ExequielDiaz12\CadeteriaLib\obj\Debug\net7.0\ref\CadeteriaLib.dll

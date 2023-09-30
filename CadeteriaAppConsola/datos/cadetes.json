@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Superman2",
+    "NumeroTelefono": "011-2358-1321"
+  },
+  {
+    "Id": 2,
+    "Nombre": "Flash2",
+    "NumeroTelefono": "123-5711-1317"
+  }
+]
